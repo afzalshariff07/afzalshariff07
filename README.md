@@ -12,7 +12,7 @@ Welcome to my GitHub! I specialise in designing scalable BI solutions, crafting 
 * 📊 **17+ years of experience** in BI, Data Analytics, and Reporting
 * 🏆 Certified in **Power BI Data Analyst**, **Power Platform Solution Architect**, **Azure Fundamentals**, and more
 * 🧩 Skilled in **Power BI, SQL, Excel, R, Python (learning), Microsoft Fabric, Snowflake (learning)**
-* 🎯 Career goal: *Scaling towards ₹75LPA+ / Global Analytics Leadership Roles*
+* 🎯 Career goal: *Scaling towards Global Analytics Leadership Roles*
 * 💡 Passionate about transforming raw data into compelling business stories
 
 ---
