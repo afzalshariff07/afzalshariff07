@@ -78,9 +78,9 @@ Focused on opportunities in **UAE, Germany, Kuwait, Bahrain** for Analytics Mana
 
 ## 📬 Connect With Me
 
-* **LinkedIn:** (Add your link here)
+* **LinkedIn:** [https://www.linkedin.com/in/mohammed-afzal-shariff](https://www.linkedin.com/in/mohammed-afzal-shariff)
 * **Portfolio:** Coming soon
-* **Email:** (add email)
+* **Email:** [afzalshariff@gmail.com](mailto:afzalshariff@gmail.com)
 
 ---
 
