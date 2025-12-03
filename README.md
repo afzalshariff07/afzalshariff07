@@ -76,6 +76,8 @@ Focused on opportunities in **UAE, Germany, Kuwait, Bahrain** for Analytics Mana
 
 ---
 
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=black)
+
 ## 📬 Connect With Me
 
 * **LinkedIn:** [https://www.linkedin.com/in/mohammed-afzal-shariff](https://www.linkedin.com/in/mohammed-afzal-shariff)
