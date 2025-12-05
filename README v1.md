@@ -5,7 +5,7 @@
 
 ## 🧭 About Me
 I’m a Business Intelligence Manager with **17+ years** of experience in building data-driven solutions using **Power BI, BI Strategy, SQL, Azure, and Cloud Analytics**.  
-Currently expanding skills in **Git, GitHub, Snowflake, R, and Machine Learning** to move towards a **₹75L+ CTC Analytics Leadership Role**.
+Currently expanding skills in **Git, GitHub, Snowflake, R, and Machine Learning** to move towards a **Analytics Leadership Role**.
 
 ---
 
