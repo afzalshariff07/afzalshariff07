@@ -51,7 +51,7 @@ Currently expanding skills in **Git, GitHub, Snowflake, R, and Machine Learning*
 ---
 
 ## 📈 Career Goals (2025–2026)
-- Secure a **₹75L–1Cr Analytics Leadership Role** (India/Abroad)  
+- Secure a **Analytics Leadership Role** (India/Abroad)  
 - Master Cloud Data Platforms (Snowflake, Azure, Databricks)  
 - Build 10+ high-impact data projects  
 - Grow GitHub portfolio & open-source contributions  
