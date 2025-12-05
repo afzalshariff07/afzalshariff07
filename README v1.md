@@ -1,119 +1,75 @@
-🌌 Mohammed Afzal Shariff
-Business Intelligence Manager | Data & AI Practitioner | Power BI • SQL • Snowflake • Python • ML • GenAI
-<div align="center">
+<h1 align="center">🚀 Mohammed Afzal Shariff</h1>
+<h3 align="center">BI Manager | Power BI | Azure | Data Engineering | Snowflake Learner</h3>
 
-⚡ Transforming Data into Decisions for 17+ Years — Now Scaling into AI & Engineering ⚡
+---
 
-</div>
-<div align="center">
+## 🧭 About Me
+I’m a Business Intelligence Manager with **17+ years** of experience in building data-driven solutions using **Power BI, BI Strategy, SQL, Azure, and Cloud Analytics**.  
+Currently expanding skills in **Git, GitHub, Snowflake, R, and Machine Learning** to move towards a **₹75L+ CTC Analytics Leadership Role**.
 
-</div>
-🛠️ Tech Arsenal
-<div align="center">
+---
 
+## 🛠️ Tech Stack & Skills
 
-</div>
-🌟 Who I Am
+### **Primary Expertise**
+- **Power BI (Expert)** – DAX, M, Data Modeling, Storytelling  
+- **SQL** – T-SQL, performance tuning  
+- **Azure** – Data Factory, Synapse, Azure Fundamentals Certified  
+- **Business Intelligence Strategy**  
+- **Data Visualization & Storytelling**
 
-I’m Mohammed Afzal Shariff, a results-driven BI Manager with:
+### **Currently Learning**
+- **Git & GitHub** (Completed Practical Course)
+- **Snowflake & Cloud Data Platforms**
+- **Machine Learning (R + Python)**
+- **Microsoft Fabric**
 
-17+ years in Analytics & Business Intelligence
+---
 
-Expertise in Power BI, SQL, Data Modeling, Storytelling
+## 📌 Featured Projects
 
-Ongoing mastery in Python, Snowflake, ML, GenAI
+### 🔹 **Power BI Dashboards**
+- Healthcare Data Storytelling  
+- Invoice Processing & Automation  
+- HR Ticketing Insights  
+- Sales & Finance Analytics  
 
-Experience managing stakeholders, engineering teams, and enterprise BI programs
+### 🔹 **Git & GitHub Hands-On**
+- Branching, Merging & PR Workflows  
+- Conflict Resolution  
+- Collaborative Repository Setup  
 
-📌 My mission:
+---
 
-To transition into high-impact Data & AI Leadership roles (India + Global) at ₹75L–₹1Cr CTC.
+## 🏆 Certifications
+- Microsoft Certified: **Power Platform Solution Architect Expert**
+- Microsoft Certified: **Power BI Data Analyst**
+- Microsoft Certified: **Power Platform Functional Consultant**
+- **Azure Fundamentals (AZ-900)**
+- Snowflake (Learning Path in Progress)
 
-🚀 My 2025 Data–AI Growth Roadmap
+---
 
-🔹 Python → Intermediate → Advanced
+## 📈 Career Goals (2025–2026)
+- Secure a **₹75L–1Cr Analytics Leadership Role** (India/Abroad)  
+- Master Cloud Data Platforms (Snowflake, Azure, Databricks)  
+- Build 10+ high-impact data projects  
+- Grow GitHub portfolio & open-source contributions  
 
-🔹 Snowflake → SnowPro Certification
+---
 
-🔹 Practical ML Models (R + Python)
+## 📬 Connect With Me
+<p align="left">
+  <a href="https://www.linkedin.com/in/mohammedafzalshariff" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn%20Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:afzalshariff@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Me-orange?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
-🔹 GenAI Apps → RAG → Vector Search
+---
 
-🔹 Data Engineering → ETL → Automation
-
-🔹 AI-powered Power BI & Storytelling
-
-📁 Premium Portfolio Structure
-📦 Portfolio Root
-┣ 📁 01-git-practice          → Git & GitHub mastery
-┣ 📁 02-python-foundations    → Python projects & scripts
-┣ 📁 03-sql-projects          → Case studies & optimised queries
-┣ 📁 04-snowflake-labs        → Hands-on Snowflake learning
-┣ 📁 05-powerbi-portfolio     → Dashboards & data stories
-┣ 📁 06-ml-models             → End-to-end ML projects
-┣ 📁 07-genai-projects        → RAG apps, chatbots, embeddings
-┣ 📁 08-data-engineering      → ETL pipelines & automations
-┣ 📁 09-business-storytelling → Presentations & insights
-┗ 📁 10-certifications-badges → All credentials & badges
-
-🌐 Featured Projects
-🏥 Healthcare Analytics – 10 Hospital Dataset (Power BI)
-
-Outcome analysis, patient segmentation, cost metrics, and insights.
-
-🧾 End-to-End Procure-to-Pay Storyboard
-
-Vendor performance, cycle efficiency, exceptions analysis.
-
-❄️ Snowflake Performance Lab
-
-Warehouse optimization, micro-partitions, file loading, & stages.
-
-🤖 AI & GenAI Experiments
-
-RAG chatbot
-Embedding-based retrieval
-PDF extraction & semantic search
-
-🔍 ML Models (R & Python)
-
-Regression, classification, clustering, and model evaluation.
-
-🏆 Certifications
-<div align="center">
-
-
-
-
-
-
-
-
-</div>
-
-Full badge list in:
-📁 /10-certifications-badges
-
-📊 GitHub Analytics
-<div align="center">
-
-
-
-
-</div>
-🏅 GitHub Profile Trophy
-<div align="center">
-
-</div>
-🤝 Let’s Connect
-<div align="center">
-
-
-📧 Email: afzalshariff***@***
-
-</div>
-✨ Final Message
-
-I believe in continuous learning, building in public, and creating real impact with data.
-If you're here exploring my work — thank you.
-If you're here considering me for a role — let's talk.
+<p align="center">
+  ⭐ If you like my work, consider giving a star to the repos! ⭐  
+</p>
