@@ -66,7 +66,7 @@ I turn **complex data → clear insights** that drive business decisions.
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=000" />
   <img src="https://img.shields.io/badge/Azure-0078D4?logo=microsoft-azure&logoColor=fff" />
   <img src="https://img.shields.io/badge/Snowflake-29B5E8?logo=snowflake&logoColor=fff" />
-  <img src="https://img.shields.io/badge/Fabric-000000?logo=microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft_Fabric-000000?logo=microsoft&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=fff" />
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff" />
   <img src="https://img.shields.io/badge/R-276DC3?logo=r&logoColor=fff" />
